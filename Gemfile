@@ -10,6 +10,7 @@ gem 'puma', '~> 5.0'
 #Rake added by Divesh
 gem 'rake'
 gem 'rexml'
+gem 'sinatra', '>= 2.0.1'
 # Use SCSS for stylesheets
 gem 'sass-rails', '>= 6'
 # Transpile app-like JavaScript. Read more: https://github.com/rails/webpacker
